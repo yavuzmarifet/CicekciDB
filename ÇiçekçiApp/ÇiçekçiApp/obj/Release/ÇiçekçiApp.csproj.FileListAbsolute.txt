@@ -1,0 +1,4 @@
+C:\Users\mehme\source\repos\ÇiçekçiApp\ÇiçekçiApp\obj\Release\ÇiçekçiApp.csproj.AssemblyReference.cache
+C:\Users\mehme\source\repos\ÇiçekçiApp\ÇiçekçiApp\obj\Release\ÇiçekçiApp.Properties.Resources.resources
+C:\Users\mehme\source\repos\ÇiçekçiApp\ÇiçekçiApp\obj\Release\ÇiçekçiApp.csproj.GenerateResource.cache
+C:\Users\mehme\source\repos\ÇiçekçiApp\ÇiçekçiApp\obj\Release\ÇiçekçiApp.csproj.CoreCompileInputs.cache

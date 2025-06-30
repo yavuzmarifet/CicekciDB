@@ -1,0 +1,15 @@
+C:\Users\mehme\source\repos\ÇiçekçiApp\ÇiçekçiApp\obj\Debug\ÇiçekçiApp.csproj.AssemblyReference.cache
+C:\Users\mehme\source\repos\ÇiçekçiApp\ÇiçekçiApp\obj\Debug\ÇiçekçiApp.Properties.Resources.resources
+C:\Users\mehme\source\repos\ÇiçekçiApp\ÇiçekçiApp\obj\Debug\ÇiçekçiApp.csproj.GenerateResource.cache
+C:\Users\mehme\source\repos\ÇiçekçiApp\ÇiçekçiApp\obj\Debug\ÇiçekçiApp.csproj.CoreCompileInputs.cache
+C:\Users\mehme\source\repos\ÇiçekçiApp\ÇiçekçiApp\obj\Debug\ÇiçekçiApp.AnaForm.resources
+C:\Users\mehme\source\repos\ÇiçekçiApp\ÇiçekçiApp\bin\Debug\ÇiçekçiApp.exe
+C:\Users\mehme\source\repos\ÇiçekçiApp\ÇiçekçiApp\bin\Debug\ÇiçekçiApp.pdb
+C:\Users\mehme\source\repos\ÇiçekçiApp\ÇiçekçiApp\bin\Debug\MySql.Data.dll
+C:\Users\mehme\source\repos\ÇiçekçiApp\ÇiçekçiApp\bin\Debug\System.Data.SQLite.dll
+C:\Users\mehme\source\repos\ÇiçekçiApp\ÇiçekçiApp\bin\Debug\System.Memory.dll
+C:\Users\mehme\source\repos\ÇiçekçiApp\ÇiçekçiApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\mehme\source\repos\ÇiçekçiApp\ÇiçekçiApp\bin\Debug\System.Data.SQLite.xml
+C:\Users\mehme\source\repos\ÇiçekçiApp\ÇiçekçiApp\obj\Debug\ÇiçekçiApp.csproj.Up2Date
+C:\Users\mehme\source\repos\ÇiçekçiApp\ÇiçekçiApp\obj\Debug\ÇiçekçiApp.exe
+C:\Users\mehme\source\repos\ÇiçekçiApp\ÇiçekçiApp\obj\Debug\ÇiçekçiApp.pdb
